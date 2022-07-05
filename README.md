@@ -24,9 +24,7 @@ We refer the user to [eICU_preprocessing](https://github.com/EmmaRocheteau/TPC-L
 
 ## Model training, validation and testting
 
-```
 Run the script in the train_val_test_tdsc-caff.ipynb file.
-```
 
 # References
 E. Rocheteau, P. Lio, and S. Hyland, “Temporal pointwise convolutional` networks for length of stay prediction in the intensive care unit,” in ACM CHIL 2021 - Proceedings of the Conference on Health, Inference, and Learning, 2021, pp. 58–68.
