@@ -14,3 +14,13 @@ scikit-learn==0.20.2
 ## Datasets
 
 We use [eICU](https://physionet.org/content/eicu-crd/2.0/) and [MIMIC-IV](https://mimic.mit.edu/) datasets. We refer users to the link because MIMIC-IV and eICU datasets requires the CITI training program in order to use it. 
+
+## Data extraction and preprocessing:
+We Follow the preprocessing pipline of [TPC-LoS prediction].
+### Mimic Preprocessing:
+We refer the user to [MIMIC_preprocessing](https://github.com/EmmaRocheteau/TPC-LoS-prediction/tree/master/MIMIC_preprocessing)
+### eICU Preprocessing:
+We refer the user to [eICU_preprocessing](https://github.com/EmmaRocheteau/TPC-LoS-prediction/tree/master/eICU_preprocessing)
+
+
+
